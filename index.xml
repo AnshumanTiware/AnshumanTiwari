@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Anshuman Tiwari</title>
+    <link>https://anshumantiware.github.io/AnshumanTiwari/</link>
+    <description>Recent content in Data Science Portfolio on Anshuman Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Apr 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://anshumantiware.github.io/AnshumanTiwari/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Image Segmentation with Pytorch</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/post/project-1/</guid>
+      <description>In this project, I embarked on a captivating journey to explore the fascinating world of image segmentation. By diving deep into the segmentation dataset, I gained a comprehensive understanding of its intricacies and nuances. To facilitate seamless integration, I developed a custom dataset class specifically tailored for the image-mask dataset, enabling efficient data handling and processing. To enhance the dataset further, I harnessed the power of segmentation augmentation techniques using the Albumentations library.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Visualizing the filters of a CNN</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/post/project-2/</guid>
+      <description>During this captivating guided project, I delved into the world of Convolutional Neural Networks (CNNs) and uncovered the mesmerizing artistry hidden within. Using the renowned VGG16 model, I embarked on a mission to visualize the diverse filters spanning across its layers. Through the power of TensorFlow and the gradient ascent algorithm, I unlocked the secrets behind image activation and brought forth stunning visual representations.
+Working on this project has been an eye-opening experience.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Transfer Learning for Image Classification</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/post/project-3/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/post/project-3/</guid>
+      <description>Throughout this captivating hands-on project, I ventured into the realm of deep learning, specifically exploring the incredible concept of transfer learning. Join me as I recount my journey, where I trained a classification model to predict food types, igniting a spark of innovation within the food industry.
+This project has been an exhilarating learning experience for me. From the very beginning, I was captivated by the challenges presented in understanding the problem statement and acquainting myself with the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Hyperparameter tuning with NNI</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/post/project-4/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/post/project-4/</guid>
+      <description>Join me on an intriguing deep learning adventure as we delve into the realm of hyperparameter tuning using Microsoft&amp;rsquo;s Neural Network Intelligence (NNI) toolkit. In this project project, I explored the capabilities of NNI, a powerful AutoML toolkit designed to automate various aspects of machine learning.
+Throughout this project, I delved into the fascinating world of hyperparameter tuning using NNI. Embracing the power of this open-source toolkit, created by Microsoft, I harnessed its capabilities to automate feature engineering, hyperparameter tuning, neural architecture search, and model compression.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Understanding the Explainabale AI</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/post/project-5/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/post/project-5/</guid>
+      <description>Welcome to my captivating world of deep learning, where I embarked on an extraordinary project focused on the realm of explainable AI. Throughout this hands-on endeavor, I delved into the intricacies of Convolutional Neural Networks (CNNs), Residual Blocks, and the fascinating technique known as Grad-CAM.
+With a vision to detect the type of scenery in satellite images, I trained a deep learning model that combines the power of CNNs and Residual Blocks.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://anshumantiware.github.io/AnshumanTiwari/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anshumantiware.github.io/AnshumanTiwari/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform URL Twitter: https://twitter.com/Anshuman_MITx LinkedIn: https://www.linkedin.com/in/anshuman-tiwari-199b5086/ GitHub: https://github.com/AnshumanTiware </description>
+    </item>
+    
+  </channel>
+</rss>
